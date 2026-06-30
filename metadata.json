@@ -1,0 +1,6 @@
+{
+  "name": "Ace Courtside Pickleball",
+  "description": "An elegant online court booking and management system for Ace Courtside Pickleball, featuring real-time availability, court management, and an administrative monitoring panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
